@@ -382,6 +382,19 @@
       "homepage": "https://enrichlabs.ai",
       "keywords": ["helena", "enrich labs", "helena ai marketer", "helena marketing ai agent", "helena autonomous marketer", "helena marketing"],
       "domains": ["enrichlabs.ai", "agent.enrichlabs.ai"]
+    },
+    {
+      "name": "grok-build-worker",
+      "description": "Local stdio MCP for one-shot Grok Build jobs (submit_job, status, fetch_artifacts, cancel_job). Default mode is review_readonly; pass mode=build for write jobs.",
+      "category": "development",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/BotOTNworld/grok-plugins.git",
+        "sha": "3e864000a4e3289701c018df45498cc69eef821d",
+        "path": "plugins/grok-build-worker"
+      },
+      "homepage": "https://github.com/BotOTNworld/grok-plugins",
+      "keywords": ["grok", "mcp", "build", "worker", "review"]
     }
   ]
 }

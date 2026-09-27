@@ -395,6 +395,27 @@
         ]
       }
     },
+    "grok-build-worker": {
+      "sha": "3e864000a4e3289701c018df45498cc69eef821d",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "grok-build-worker",
+            "description": "stdio"
+          }
+        ],
+        "skills": [
+          {
+            "name": "Grok build CLI capabilities",
+            "description": "Use when a dispatcher composes a Grok build worker job: which grok CLI surfaces are allowed, how to map them to submit_…"
+          },
+          {
+            "name": "Grok build worker",
+            "description": "Use when implementing code via the Grok build worker plugin (build-worker MCP: submit_job, status, fetch_artifacts). Re…"
+          }
+        ]
+      }
+    },
     "helena": {
       "sha": "9b71516e006144d323f138f1785f55123ec51931",
       "version": "1.0.0",
