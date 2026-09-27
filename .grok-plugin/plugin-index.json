@@ -396,7 +396,7 @@
       }
     },
     "grok-build-worker": {
-      "sha": "bb1bbd134910f503dd1517e670af60af667c9899",
+      "sha": "7da3c276e67b225b5f301860f62111546d2b4494",
       "components": {
         "mcpServers": [
           {
