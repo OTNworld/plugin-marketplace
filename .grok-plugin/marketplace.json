@@ -390,7 +390,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/OTNworld/grok-plugins.git",
-        "sha": "2521e8db7f609d7c73383f59543934600babef91",
+        "sha": "bb1bbd134910f503dd1517e670af60af667c9899",
         "path": "plugins/grok-build-worker"
       },
       "homepage": "https://github.com/OTNworld/grok-plugins",
