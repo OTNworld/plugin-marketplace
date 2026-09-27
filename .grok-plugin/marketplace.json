@@ -389,11 +389,11 @@
       "category": "development",
       "source": {
         "source": "url",
-        "url": "https://github.com/BotOTNworld/grok-plugins.git",
-        "sha": "3e864000a4e3289701c018df45498cc69eef821d",
+        "url": "https://github.com/OTNworld/grok-plugins.git",
+        "sha": "3cd764ccfd2adedeb889e919eea4c511ebf0b6fc",
         "path": "plugins/grok-build-worker"
       },
-      "homepage": "https://github.com/BotOTNworld/grok-plugins",
+      "homepage": "https://github.com/OTNworld/grok-plugins",
       "keywords": ["grok", "mcp", "build", "worker", "review"]
     }
   ]
